@@ -8,83 +8,71 @@ This project predicts the likelihood of heart disease using Machine Learning tec
 
 This project demonstrates the complete Machine Learning workflow including:
 
-Data Loading
+                      Data Loading
 
-Data Preprocessing
+                      Data Preprocessing
 
-Exploratory Data Analysis (EDA)
+                      Exploratory Data Analysis (EDA)
 
-Feature Scaling
+                      Feature Scaling
 
-Model Training
+                      Model Training
 
-Model Evaluation
+                      Model Evaluation
 
-Visualization
+                      Visualization
 
 🎯 Objective
 
-The objective of this project is to develop a machine learning model that can accurately predict heart disease based on patient health records and assist in early diagnosis.
+           The objective of this project is to develop a machine learning model that can accurately predict heart disease based on patient health records and assist in early diagnosis.
 
 🛠 Technologies Used
 
-Python
+                      Python
 
-Pandas
+                      Pandas
 
-NumPy
+                      NumPy
 
-Matplotlib
+                      Matplotlib
 
-Seaborn
+                      Seaborn
 
-Scikit-Learn
+                      Scikit-Learn
 
-Jupyter Notebook
+                      Jupyter Notebook
 
 📂 Dataset Features
 
 The dataset contains the following important features:
 
-Feature	Description
+| Feature  | Description                       |
+| -------- | --------------------------------- |
+| age      | Age of patient                    |
+| sex      | Gender                            |
+| cp       | Chest pain type                   |
+| trestbps | Resting blood pressure            |
+| chol     | Cholesterol level                 |
+| fbs      | Fasting blood sugar               |
+| restecg  | Resting ECG results               |
+| thalach  | Maximum heart rate achieved       |
+| exang    | Exercise-induced angina           |
+| oldpeak  | ST depression                     |
+| slope    | Slope of peak exercise ST segment |
+| ca       | Number of major vessels           |
+| thal     | Thalassemia                       |
+| target   | Heart disease prediction (0/1)    |
 
-age	Age of patient
-
-sex	Gender
-
-cp	Chest pain type
-
-trestbps	Resting blood pressure
-
-chol	Cholesterol level
-
-fbs	Fasting blood sugar
-
-restecg	Resting ECG results
-
-thalach	Maximum heart rate achieved
-
-exang	Exercise-induced angina
-
-oldpeak	ST depression
-
-slope	Slope of peak exercise ST segment
-
-ca	Number of major vessels
-
-thal	Thalassemia
-
-target	Heart disease prediction (0/1)
 
 🔍 Exploratory Data Analysis
 
-A scatter plot was created to visualize the relationship between:
+                      A scatter plot was created to visualize the relationship between:
 
-Age
+                                                       Age
 
-Maximum Heart Rate (thalach)
+                                                       Maximum Heart Rate (thalach)
 
-Heart Disease Status
+                                                       Heart Disease Status
 
 This helps identify patterns and trends among patients with and without heart disease.
 
@@ -164,16 +152,15 @@ Heart-Disease-Prediction/
 
 💡 Future Improvements
 
-Hyperparameter tuning using GridSearchCV
-Cross-validation
-Feature selection techniques
-Compare multiple algorithms
-Logistic Regression
-Random Forest
-XGBoost
-KNN
-Deploy model using Flask or Streamlit
-Build an interactive dashboard
+                      Cross-validation
+                      Feature selection techniques
+                      Compare multiple algorithms
+                      Logistic Regression
+                      Random Forest
+                      XGBoost
+                      KNN
+                      Deploy model using Flask or Streamlit
+                      Build an interactive dashboard
 
 ✅ Conclusion
 

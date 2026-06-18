@@ -110,35 +110,35 @@ This helps identify patterns and trends among patients with and without heart di
    
                 Confusion Matrix
 📈 Results
-polynominal Kernel SVM
+        polynominal Kernel SVM
 
-Accuracy: 90.73%
+                  Accuracy: 90.73%
 
 Classification Metrics:
 
-High Recall for Heart Disease Detection
+          High Recall for Heart Disease Detection
 
-Balanced Precision and F1-Score
+          Balanced Precision and F1-Score
 
-Good Overall Performance
+          Good Overall Performance
 
 🚀 How to Run
 
-Clone Repository
+  Clone Repository
 
-git clone https://github.com/yourusername/heart-disease-prediction.git
+          git clone https://github.com/yourusername/heart-disease-prediction.git
 
 Install Dependencies
 
-pip install pandas numpy matplotlib seaborn scikit-learn
+          pip install pandas numpy matplotlib seaborn scikit-learn
 
 Run Notebook
 
-jupyter notebook
+          jupyter notebook
 
 Open:
 
-heart_disease_predict.ipynb
+          heart_disease_predict.ipynb
 
 📊 Project Structure
 
@@ -164,4 +164,4 @@ Heart-Disease-Prediction/
 
 ✅ Conclusion
 
-This project successfully developed a Heart Disease Prediction model using the Support Vector Machine (SVM) algorithm. After preprocessing and scaling the data, the SVM model achieved approximately 81.46% accuracy, demonstrating its effectiveness in classifying patients with and without heart disease. The results indicate that machine learning can be a valuable tool for supporting early diagnosis and healthcare decision-making. Further optimization and deployment can improve the model's performance and real-world usability.
+          This project successfully developed a Heart Disease Prediction model using the Support Vector Machine (SVM) algorithm. After preprocessing and scaling the data, the SVM model achieved approximately 81.46% accuracy, demonstrating its effectiveness in classifying patients with and without heart disease. The results indicate that machine learning can be a valuable tool for supporting early diagnosis and healthcare decision-making. Further optimization and deployment can improve the model's performance and real-world usability.
